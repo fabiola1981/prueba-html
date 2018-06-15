@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	background-color: ##a0195d;
+}
+
+@media (min-width: 700px)
+{
+.nav.navbar{
+	color: red;
+}
+.carousel-item{
+	width: 85%;
+	height: 250px;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+}
+.jumbotron{
+       background-image: url(niña-feliz.jpg); 
+       background-size: cover;
+       min-height: 600px; 
+}
+
+@media (min-width: 576px){
+}
+	
+
+.jumbotron{
+	padding: 4rem 2rem;
+}
+iframe{
+	
+}
